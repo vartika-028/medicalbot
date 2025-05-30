@@ -1,4 +1,4 @@
-# 🩺 Medical Chatbot (MediBot)
+# 🩺 Medical Chatbot 
 
 A context-aware, document-driven medical chatbot built using **LangChain**, **FAISS**, **Mistral LLM**, and **Streamlit**. This chatbot leverages powerful transformer models and vector similarity search to answer user questions based strictly on medical PDF documents.
 
